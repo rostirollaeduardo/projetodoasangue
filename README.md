@@ -1,4 +1,4 @@
-# projetodoasangue
+# PROJETO DOE SANGUE
 Projeto pessoal DOE SANGUE, desenvolvido com HTML, CSS, Node.js e banco de dados PostgreSQL!
                                         
 
